@@ -232,7 +232,7 @@ public class Gopinath {
 
 [![Email](https://img.shields.io/badge/Gmail-gopinath04160%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:gopinath04160@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%2063808%2098186-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+916380898186)
-[![GitHub](https://img.shields.io/badge/GitHub-gopinath04160-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/gopinath04160)
+[![GitHub](https://img.shields.io/badge/GitHub-Gopinath-33-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Gopinath-33)
 [![Location](https://img.shields.io/badge/Location-Trichy%2C%20Tamil%20Nadu-38BDAE?style=flat-square&logo=googlemaps&logoColor=white)](#)
 
 </div>
